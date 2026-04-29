@@ -127,6 +127,19 @@ The notebook produces the following plots:
 
 ---
 
+ 
+## Alternative Datasets
+ 
+The following datasets can be used as direct replacements or supplements for MNIST in this pipeline:
+ 
+| Dataset | Description |
+|---|---|
+| EMNIST | Extension of MNIST with handwritten letters and digits from 814,255 samples. A natural drop-in upgrade. |
+| IAM Handwriting Database | 1,539 handwritten English text pages from 657 writers, with word and line level segmentation. |
+| CVL Handwriting Database | Handwritten text from 310 writers in English and German. Useful for writer-style analysis. |
+ 
+---
+
 ## Future Scope
 
 - Replace synthetic labels with real handwriting-personality data (e.g., IAM database paired with Big Five assessments).
@@ -156,4 +169,4 @@ Personality scores are synthetically generated and do not reflect real psycholog
 ---
 
 Developed as part of an MLDL Capstone Project, B.Tech CSE.
-Naman Dixit | 500125530 | B7 Data Science
+Naman Dixit | 500125539 | B7 Data Science
